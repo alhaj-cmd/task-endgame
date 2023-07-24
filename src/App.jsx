@@ -1,5 +1,6 @@
 
 import Header from './component/Header/Header'
+import Home from './component/Home/Home'
 
 function App() {
  
@@ -7,6 +8,7 @@ function App() {
   return (
   <div>
     <Header></Header>
+    <Home></Home>
   </div>
   )
 }
