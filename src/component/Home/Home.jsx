@@ -1,6 +1,6 @@
-import Slide from '../../../image/silde/slide1.avif'
-import Slide1 from '../../../image/silde/slide2.avif'
-import Slide2 from '../../../image/silde/slide3.avif'
+import Slide from '../../assets/image/silde/slide1.avif'
+import Slide1 from '../../assets/image/silde/slide2.avif'
+import Slide2 from '../../assets/image/silde/slide3.avif'
 
 const Home = () => {
     return (
